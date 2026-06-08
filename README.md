@@ -1,10 +1,10 @@
 ## Hello and Welcome to Hell
 
-# first of all:
+### first of all:
 
 https://nohello.net/de/
 
-# second check out Modrinth and Curseforge:
+### second check out Modrinth and Curseforge:
 
 https://modrinth.com/user/klausiiiii
 https://www.curseforge.com/members/klausiiiii/projects?sortBy=TotalDownloads
