@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hello and Welcome to Hell
 
+first of all:
+https://nohello.net/de/
+
+second check out Modrinth and Curseforge:
+https://modrinth.com/user/klausiiiii
+https://www.curseforge.com/members/klausiiiii/projects?sortBy=TotalDownloads
 <!--
 **Klausiiiii/Klausiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
